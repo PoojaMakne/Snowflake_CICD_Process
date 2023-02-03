@@ -1,5 +1,0 @@
-use DATABASE DEMO;
-CREATE SCHEMA d1;
-CREATE TABLE student(
-First_name VARCHAR,
-Last_name VARCHAR);
