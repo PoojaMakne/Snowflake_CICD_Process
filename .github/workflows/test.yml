@@ -3,7 +3,7 @@ name: showcase_cicd_snowflake
 on:
   push:
     branches:
-      - main
+      - test
     paths:
       - 'dbscripts/**'
       
